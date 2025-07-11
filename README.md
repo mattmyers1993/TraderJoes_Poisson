@@ -2,7 +2,7 @@
 
 ## Aloha!
 Thank you for checking out my product ordering probability calculator. 
-[Please find the Power BI report here](https://app.powerbi.com/view?r=eyJrIjoiYWI0N2MyNDAtYTdkNy00YmNhLWE5N2QtMzQyOGJhMGRkNWMxIiwidCI6ImJjMzM5NDJjLTE2YjQtNDcwYS04Yjc5LTk1MmNmMzY0NmJjYiIsImMiOjZ9)
+[Please find the Power BI report here](https://app.powerbi.com/view?r=eyJrIjoiYWI0N2MyNDAtYTdkNy00YmNhLWE5N2QtMzQyOGJhMGRkNWMxIiwidCI6ImJjMzM5NDJjLTE2YjQtNDcwYS04Yjc5LTk1MmNmMzY0NmJjYiIsImMiOjZ9).
 
 This tool helps me when ordering products for my store. The goal is to balance meeting customer demand while carrying the least amount of product to reduce spoilage and optimize storage space. Any Trader Joe's is one big exercise in probability.
 
