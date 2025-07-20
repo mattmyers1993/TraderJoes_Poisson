@@ -1,7 +1,5 @@
 ![Trader Joe's Report](tj_dash.png)
 # How I Order Chips for Trader Joe's using Python, Poisson Distributions, and Power BI
-
-## Aloha!
 Thank you for checking out my product ordering report. This Power BI dashboard helps visualize Poisson-based inventory predictions for Trader Joe’s products. Users can input average daily sales to explore the likelihood of demand being met, expected leftover stock, and optimized ordering strategies.
 
 This tool helps me when ordering products for my store. The goal is to maximize revenue. To do this we need to meet customer demand while carrying the least amount of inventory to reduce spoilage and optimize storage space. Any Trader Joe's is one big exercise in probability. **Through this report, I show how identifying as little as 15 products that are being understocked can yield around $183,000/year in gained revenue by capitalizing on our busiest days.** 
